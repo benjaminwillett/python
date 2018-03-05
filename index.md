@@ -1,11 +1,11 @@
 ## Python
 
 ### 2.7
-- [Install on Unix ](Unix27.md)
-- [Install on Windows ](Windows27.md)
-- [Install on Mac ](Mac27.md)
+- [Install on Unix ](https://docs.python.org/2/using/unix.html)
+- [Install on Windows ](https://docs.python.org/2/using/windows.html)
+- [Install on Mac ](https://docs.python.org/2/using/mac.html)
 
-### 3
-- [Install on Unix ](Unix3.md)
-- [Install on Windows ](Windows3.md)
-- [Install on Mac ](Mac3.md)
+### 3.5
+- [Install on Unix ](https://docs.python.org/3.5/using/unix.html)
+- [Install on Windows ](https://docs.python.org/3.5/using/windows.html)
+- [Install on Mac ](https://docs.python.org/3.5/using/mac.html)
