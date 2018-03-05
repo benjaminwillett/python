@@ -1,5 +1,7 @@
 ## Python
 
+### [Command Line and Environment](https://docs.python.org/2/using/cmdline.html)
+
 ### 2.7
 - [Install on Unix ](https://docs.python.org/2/using/unix.html)
 - [Install on Windows ](https://docs.python.org/2/using/windows.html)
